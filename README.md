@@ -5,3 +5,7 @@
 
 ## Calcular Meses Transcurridos
 ![image](https://github.com/user-attachments/assets/fb7db6f0-76ff-4d60-b256-4e2c3408610d)
+
+## Venta Zapatos
+![image](https://github.com/user-attachments/assets/8ce56918-1013-4298-bcda-8040abcb3d31)
+
