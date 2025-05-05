@@ -18,6 +18,9 @@
 ## 6.Calcular la hipotenusa de un triangulo rectangulo
 ![image](https://github.com/user-attachments/assets/bc9e1150-1497-4f17-a625-d1f096e95205)
 
+## 7.Calcular Area Y Volumen de un Cilindro
+![image](https://github.com/user-attachments/assets/f11c0cbc-f1d5-4fdf-974d-2b768ba91b16)
+
 
 
 
