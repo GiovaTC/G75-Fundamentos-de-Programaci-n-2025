@@ -27,6 +27,10 @@
 ## 9.Resolver ecuacion cuadratica
 ![image](https://github.com/user-attachments/assets/fda8af10-8db0-482c-ac89-9a3730ae33ea)
 
+## 10.Calcular promedio
+![image](https://github.com/user-attachments/assets/2e71a025-5bc5-4885-806b-8b10239eded7)
+
+
 
 
 
