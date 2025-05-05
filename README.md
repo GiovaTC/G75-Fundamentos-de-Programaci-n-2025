@@ -21,6 +21,10 @@
 ## 7.Calcular area y volumen de un cilindro
 ![image](https://github.com/user-attachments/assets/f11c0cbc-f1d5-4fdf-974d-2b768ba91b16)
 
+## 8.Convertir velocidad
+![image](https://github.com/user-attachments/assets/5837e224-b233-45eb-908e-973ce1e3962c)
+
+
 
 
 
