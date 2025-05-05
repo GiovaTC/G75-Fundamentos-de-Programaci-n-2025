@@ -12,4 +12,8 @@
 ## Calcular el Area de un Triangulo
 ![image](https://github.com/user-attachments/assets/fe79925a-615c-48dd-a487-c435b898d6cb)
 
+## Calcular Datos del circulo
+![image](https://github.com/user-attachments/assets/b7ee3f7d-b7a6-48e4-866d-ee45479637c0)
+
+
 
