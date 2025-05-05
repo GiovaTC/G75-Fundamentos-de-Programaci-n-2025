@@ -1,21 +1,21 @@
 # G75-Fundamentos-de-Programaci-n-2025
 
-## Llenado de Tanque
+## 1.Llenado de Tanque
 ![image](https://github.com/user-attachments/assets/1542b9c7-bd03-4d5b-9c25-3248825bb38e)
 
-## Calcular Meses Transcurridos
+## 2.Calcular Meses Transcurridos
 ![image](https://github.com/user-attachments/assets/fb7db6f0-76ff-4d60-b256-4e2c3408610d)
 
-## Venta Zapatos
+## 3.Venta Zapatos
 ![image](https://github.com/user-attachments/assets/8ce56918-1013-4298-bcda-8040abcb3d31)
 
-## Calcular el Area de un Triangulo
+## 4.Calcular el Area de un Triangulo
 ![image](https://github.com/user-attachments/assets/fe79925a-615c-48dd-a487-c435b898d6cb)
 
-## Calcular Datos del circulo
+## 5.Calcular Datos del circulo
 ![image](https://github.com/user-attachments/assets/b7ee3f7d-b7a6-48e4-866d-ee45479637c0)
 
-## Calcular la hipotenusa de un triangulo rectangulo
+## 6.Calcular la hipotenusa de un triangulo rectangulo
 ![image](https://github.com/user-attachments/assets/bc9e1150-1497-4f17-a625-d1f096e95205)
 
 
