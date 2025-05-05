@@ -15,5 +15,9 @@
 ## Calcular Datos del circulo
 ![image](https://github.com/user-attachments/assets/b7ee3f7d-b7a6-48e4-866d-ee45479637c0)
 
+## Calcular la hipotenusa de un triangulo rectangulo
+![image](https://github.com/user-attachments/assets/bc9e1150-1497-4f17-a625-d1f096e95205)
+
+
 
 
