@@ -24,6 +24,10 @@
 ## 8.Convertir velocidad
 ![image](https://github.com/user-attachments/assets/5837e224-b233-45eb-908e-973ce1e3962c)
 
+## 9.Resolver ecuacion cuadratica
+![image](https://github.com/user-attachments/assets/fda8af10-8db0-482c-ac89-9a3730ae33ea)
+
+
 
 
 
