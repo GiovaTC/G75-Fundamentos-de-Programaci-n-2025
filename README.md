@@ -9,3 +9,7 @@
 ## Venta Zapatos
 ![image](https://github.com/user-attachments/assets/8ce56918-1013-4298-bcda-8040abcb3d31)
 
+## Calcular el Area de un Triangulo
+![image](https://github.com/user-attachments/assets/fe79925a-615c-48dd-a487-c435b898d6cb)
+
+
